@@ -1,0 +1,22 @@
+Primeiramente variáveis são como itens dos jogos, são elementos que podem assumir diferentes valores e categorias.
+
+E para declarar uma variavel nesta incrivel linguagem, existem dois modos de realizar está ação que são:
+
+camelCase = linkin_Park
+snake_case = solidSnake
+
+No caso de atribuição de valores é simples e para aqueles que ja tem bagagem de outras linguagens se supreenderam. Para atribuir valores as variáveis basta seguir os exmplos a seguir:
+
+Drakalis = "Fogo";
+Hulk = 'Esmaga';
+Nivel = 10;
+gameVersion = 3.4;
+
+Observação Fera: Percebam que não foi especificado um tipo nesta variavel que comumente seriam string, int, float a Linguagem lua simplesmente identifica automaticamente o tipo da variável que você colocou.
+
+Veja abaixo como imprimir o valor de uma variável na tela:
+
+Drakalis = "Fogo";
+print (Drakalis)
+
+
