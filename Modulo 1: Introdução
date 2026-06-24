@@ -1,0 +1,13 @@
+# Introdução à Linguagem
+
+Bom, como em praticamente todo aprendizado básico de programação, tudo costuma começar com a execução de um famoso "Hello World". Pelo menos, eu espero que seja assim. E aqui não será diferente.
+
+Se esta for a primeira linguagem que você está aprendendo, não se preocupe. Porém, caso já tenha experiência com outras linguagens, o trecho de código mostrado abaixo já servirá como um pequeno indicador do nível de dificuldade "alto" desta linguagem.
+
+Execute o código em um compilador de sua preferência. Caso não conheça nenhum, acesse o OnlineGDB e selecione a linguagem Lua.
+
+Dito isso, este é o "Hello World" em Lua:
+
+print("Hello World")
+
+Como primeiro exercício de fixação, substitua a frase atual por uma palavra ou mensagem de sua escolha e execute o código no compilador.
